@@ -367,8 +367,8 @@ a:focus {
 #footer .social li .twitter:focus { color: #00aced }
 #footer .social li .linkedin:hover,
 #footer .social li .linkedin:focus { color: #d34836 }
-#footer .social li .tumblr:hover,
-#footer .social li .tumblr:focus { color: #ea4c89 }
+#footer .social li .github:hover,
+#footer .social li .github:focus { color: #ea4c89 }
 #footer .copyright { margin-bottom: 0 }
 /* Responsive style */
 @media screen and (max-width: 1024px) { 
